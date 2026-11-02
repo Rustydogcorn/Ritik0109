@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritik and I'm a Data Engineer</h2>
+<h2 align="left">Hi 👋! I'm a Data Engineer</h2>
 
 <img align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxxbm84NnQydm92a2YyOG9pNHZhcTkyNTV0cG51c2kxNW80eHRrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYPS1JxmzOzWC1pNSq/giphy.gif"
 style="border-radius: 50%;"/>
